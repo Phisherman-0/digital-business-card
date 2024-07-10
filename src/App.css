@@ -1,0 +1,66 @@
+.body {
+    background-color: #23252C;
+    height: 200vh;
+}
+
+.cards-main {
+    max-width: 320px !important;
+    border: none !important;
+}
+
+.cards-body {
+    background-color: #1A1B21;
+    color: #FFFFFF;
+}
+
+.name {
+    font-size: 25px !important;
+    font-weight: 700 !important;
+}
+
+.role {
+    font-size: 12.8px;
+    font-weight: 400;
+    color: #F3BF99;
+}
+
+.website {
+    color: #F5F5F5;
+    font-size: 10.24px;
+    font-weight: 400;
+}
+
+.cards-btn {
+  width: 45% !important;
+  display: flex !important;
+  margin: 0 auto !important;
+  align-items: center !important;
+  justify-content: center;
+}
+
+.cards-content-heading {
+    font-size: 16px;
+    font-weight: 700;
+    color: #F5F5F5;
+}
+
+.cards-content {
+    font-size: 10.24px;
+    font-weight: 400;
+    color: #F5F5F5; 
+}
+
+.cards-footer {
+    background-color: #161619 !important;
+}
+
+.cards-footer-icon {
+    background-color: #918E9B;
+    width: 25px;
+    height: 25px;
+    color: #161619;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 7px;
+}
